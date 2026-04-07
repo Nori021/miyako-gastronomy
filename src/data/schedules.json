@@ -1,0 +1,10 @@
+[
+  { "id": 1, "date": "2025-12-01", "title": "ガストロノミー概論", "guestId": 1, "status": "done", "location": "宮古島市中央公民館" },
+  { "id": 2, "date": "2025-12-11", "title": "食材編", "guestId": 2, "status": "done", "location": "島和食 郷家" },
+  { "id": 3, "date": "2026-01-15", "title": "伝統と食文化", "guestId": null, "status": "done", "location": "宮古島市歴史文化館" },
+  { "id": 4, "date": "2026-01-29", "title": "泡盛編", "guestId": null, "status": "done", "location": "多良川酒造" },
+  { "id": 5, "date": "2026-02-19", "title": "フィールドワーク", "guestId": null, "status": "done", "location": "島内各所" },
+  { "id": 6, "date": "2026-03-05", "title": "世界のホスピタリティ", "guestId": 3, "status": "done", "location": "宮古島市中央公民館" },
+  { "id": 7, "date": "2026-03-19", "title": "地域ブランドの作り方", "guestId": 4, "status": "done", "location": "宮古島市中央公民館" },
+  { "id": 8, "date": "2026-04-23", "title": "最終発表", "guestId": null, "status": "upcoming", "location": "宮古島市中央公民館" }
+]

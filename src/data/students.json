@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "田中花子", "role": "料理人", "location": "平良市", "attendance": [1,2,3,4,5,6,7] },
+  { "id": 2, "name": "山田太郎", "role": "ホテルスタッフ", "location": "下地島", "attendance": [1,2,3,5,6,7] },
+  { "id": 3, "name": "新垣美咲", "role": "ソムリエ", "location": "城辺", "attendance": [1,2,3,4,5,6,7] },
+  { "id": 4, "name": "宮城健一", "role": "生産者", "location": "伊良部島", "attendance": [1,2,4,5,7] },
+  { "id": 5, "name": "上地さやか", "role": "サービススタッフ", "location": "平良市", "attendance": [1,2,3,4,6,7] },
+  { "id": 6, "name": "砂川拓海", "role": "飲食店オーナー", "location": "上野", "attendance": [1,2,3,4,5,6,7] }
+]
